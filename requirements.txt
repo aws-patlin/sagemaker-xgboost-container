@@ -4,7 +4,7 @@ model-archiver
 mxnet-model-server==1.0.8
 numpy
 pandas>=0.24.0
-psutil==5.4.8  # sagemaker-containers requires psutil 5.4.8
+psutil==5.4.8  # sagemaker-containers requires 5.4.8
 python-dateutil==2.8.0
 requests<2.21
 retrying==1.3.3
